@@ -1,0 +1,20 @@
+{
+   "name": "readspeaker/readspeaker-services",
+   "authors": [
+      {
+         "name": "ReadSpeaker",
+         "role": "Developer"
+      }
+   ],
+   "type": "readspeaker-for-typo3-documentation",
+   "description": "Manual for the ReadSpeaker Services extension for Typo3.",
+   "license": "CC BY-NC-ND 4.0",
+   "require": {
+      "typo3/cms-core": "^10.4"
+   },
+   "extra": {
+      "typo3/cms": {
+         "extension-key": "readspeaker_services"
+      }
+   }
+}
